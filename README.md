@@ -1,4 +1,4 @@
 # Notes
-This repository mainly used for tracking learning path of my self.
+This repository is used for tracking self learning path.
 
 
